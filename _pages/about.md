@@ -20,10 +20,7 @@ redirect_from:
 
 I'm currently a master's student at Beijing Jiaotong University, co-supervised by [Prof.Yunchao Wei](https://scholar.google.com/citations?user=qL9Csv0AAAAJ&hl=zh-CN) and [Prof. Yao Zhao](https://scholar.google.com/citations?user=474TbQYAAAAJ&hl=zh-CN).
 
-My research interest includes Image/Video Generation, Image Matting, MLLM. I hope 
-
-
-Image/Video Generation, 
+My research interest includes Image/Video Generation, Image Matting, MLLM.
 
 
 <!-- # 🔥 News
