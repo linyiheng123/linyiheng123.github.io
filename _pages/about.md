@@ -38,7 +38,7 @@ My research interest includes Image/Video Generation, Image Matting, MLLM.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.12 - 2025.06*, [MT Lab, Meitu Inc.](https://mtlab.meitu.com/en/?lang=en), China.
+- *2024.12 - now*, [MT Lab, Meitu Inc.](https://mtlab.meitu.com/en/?lang=en), China.
 
 
 # 📝 Publications
@@ -91,8 +91,20 @@ Keywords: Image Matting; Diffusion
 </div>
 </div>
 
-- MattePro: A Professional Matting Model for Anything.<br>
-Chenyi Zhang*, **Yiheng Lin\***, Ting Liu, Xiaochao Qu, Luoqi Liu, Fang Zhao, Yao Zhao, Yunchao
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper_teaser/mattepro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2>MattePro: A Professional Matting Model for Anything.</h2>
+Chenyi Zhang*, **Yiheng Lin\***, Ting Liu, Xiaochao Qu, Luoqi Liu, Fang Zhao, Yao Zhao, Yunchao.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+[**Paper (Coming Soon)**](https://linyiheng123.github.io/) | [**GitHub (Coming Soon)**](https://linyiheng123.github.io/)
+
+Keywords: Interactive Image Matting
+
+</div>
+</div>
+
 
 - [OmniAD: Detect and Understand Industrial Anomaly via Multimodal Reasoning.](https://arxiv.org/abs/2505.22039)<br>
 Shifang Zhao, **Yiheng Lin**, Lu Han, Yao Zhao, Yunchao Wei
