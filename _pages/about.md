@@ -48,7 +48,7 @@ My research interest includes Image/Video Generation, Image Matting, MLLM.
 <div class='paper-box-text' markdown="1">
 
 <h2>AlignGen: Boosting Personalized Image Generation with Cross-Modality Prior Alignment.</h2>
-**Yiheng Lin**, Shifang Zhao, Ting Liu, Xiaochao Qu, Luoqi Liu, Yao Zhao, Yunchao Wei
+**Yiheng Lin\***, Shifang Zhao*, Ting Liu, Xiaochao Qu, Luoqi Liu, Yao Zhao, Yunchao Wei
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 [**Paper**](https://arxiv.org/abs/2505.21911) | [**GitHub**](https://arxiv.org/abs/2505.21911)
