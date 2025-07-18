@@ -20,7 +20,7 @@ redirect_from:
 
 I'm currently a master's student at Beijing Jiaotong University, co-supervised by [Prof.Yunchao Wei](https://scholar.google.com/citations?user=qL9Csv0AAAAJ&hl=zh-CN) and [Prof. Yao Zhao](https://scholar.google.com/citations?user=474TbQYAAAAJ&hl=zh-CN).
 
-My research interest includes Image/Video Generation, Image Matting, MLLM.
+My research interest includes Unified Model, Personalized Image Generation, Image Matting.
 
 
 <!-- # 🔥 News
@@ -98,7 +98,7 @@ Keywords: Image Matting; Diffusion
 Chenyi Zhang*, **Yiheng Lin\***, Ting Liu, Xiaochao Qu, Luoqi Liu, Fang Zhao, Yao Zhao, Yunchao.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-[**Paper (Coming Soon)**](https://linyiheng123.github.io/) | [**GitHub (Coming Soon)**](https://linyiheng123.github.io/)
+[**Paper (Coming Soon)**](https://linyiheng123.github.io/) | [**GitHub**](https://github.com/ChenyiZhang007/MattePro)
 
 Keywords: Interactive Image Matting
 
